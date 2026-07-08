@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Vansh Gupta",
+    "email": "vansh123@gmail.com",
+    "course": "Computer Science",
+    "semester": 5
+  },
+  {
+    "id": 2,
+    "name": "Rahul Sharma",
+    "email": "rahul11@gmail.com",
+    "course": "Information Technology",
+    "semester": 4
+  }
+]
