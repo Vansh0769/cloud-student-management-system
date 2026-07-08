@@ -59,6 +59,6 @@ jobs:
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v3
         with:
-          app-name: cloud-sms-project
+          app-name: sms-appservice
           slot-name: Production
           package: .
